@@ -1,6 +1,5 @@
 import openai
 
-
 openai.api_key = "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"
 
 def chat_with_gpt(promt):
