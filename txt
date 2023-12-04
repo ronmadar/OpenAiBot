@@ -1,0 +1,6 @@
+Commande -
+openaibot: ( install openai version 0.28) python -m pip install openai==0.28 --default-timeout=100
+
+Then:
+run this Commande: python main.py
+start talk with chat gpt
